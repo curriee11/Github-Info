@@ -1,1 +1,14 @@
-hhhhhhhh
+cd ..
+cd users
+cd one drive
+
+make git repository
+git clone "copy path"
+git status
+git add filename
+git commit -m 'comment'
+ls
+git log
+git status
+git push
+authorize
